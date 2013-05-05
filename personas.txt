@@ -1,0 +1,6 @@
+Carlos;Bustamante;CEDULA;4483530;MASCULINO;
+Rodrigo;Bustamante;CEDULA;4483531;MASCULINO;
+Enrique;Rodriguez;CEDULA;1550350;MASCULINO;
+Matias;Bustamante;Cedula;654654;;
+Teresa;Muñoz;Cedula;4483531;Femenino;
+Carlos;Muñoz;Cedula;4483531;Masculino;

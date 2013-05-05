@@ -1,0 +1,8 @@
+A1;Prueba;5000;5;PY;
+A2;Prueba;5000;5;PY;
+A3;Prueba;5000;5;PY;
+A4;Prueba4;1500;9;PY;
+A6;producto 6;1500;5;UY;
+A7;Prueba 7 ;1500;55;UY;
+A8;PRUEBA8;8000;8;PY;
+A9;9;9000;9;PY;
